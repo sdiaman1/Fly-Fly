@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- #AARRGGBB : Alpha-Red-Green-Blue  -->
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorPrimaryDarkSemiTransparent">#BF303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorCrimsonSemiTransparent">#BFDC143C</color>
+    <color name="colorDarkGreenSemiTransparent">#BF006400</color>
+</resources>

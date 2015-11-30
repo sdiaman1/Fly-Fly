@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Fly-Fly</string>
+    <string name="number">#</string>
+    <string name="name">name</string>
+    <string name="question">\?</string>
+    <string name="yes">yes</string>
+    <string name="no">no</string>
+    <string name="answer">answer</string>
+</resources>
