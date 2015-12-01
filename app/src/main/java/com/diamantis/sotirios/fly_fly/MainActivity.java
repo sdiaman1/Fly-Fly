@@ -204,18 +204,8 @@ public class MainActivity extends AppCompatActivity
             answer_rectangle.setImageResource( R.drawable.answer_rectangle_red );
         }
 
-        String flies_or_not;
-        if ( things.getFly() == true )
-        {
-            flies_or_not = "Flies.";
-        }
-        else
-        {
-            flies_or_not = "Doesn't fly.";
-        }
-        
         TextView answer = (TextView) findViewById( R.id.answer );
-        answer.setText( Html.fromHtml( flies_or_not + "<br/>" + things.getAnswer() + "<br/>" + "Swipe right to continue ..." ) );
+        answer.setText( Html.fromHtml( things.getAnswer() + "<br/><br/>" + "Swipe right to continue ..." ) );
         answer.setMovementMethod( LinkMovementMethod.getInstance() );
 
         setVisibility( View.VISIBLE );
