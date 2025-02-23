@@ -18,7 +18,7 @@ This is my first Android app — it was a good learning experience for me — an
 
 I hope you have as much fun playing it as we did.
 
-![](screenshots/Fly-Fly-Donkey.gif)
+<img src="screenshots/Fly-Fly-Donkey.gif" height="600"/>
 
 Getting Started
 ---------------
