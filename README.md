@@ -2,11 +2,11 @@
 Fly-Fly Android App
 ===================================
 
-Πετάει-Πετάει ο γάιδαρος?  Πετάει.
+Πετάει-Πετάει ο γάιδαρος? Πετάει!!
 
-Fly-Fly donkey?  Fly.
+Fly-Fly donkey? Fly!!
 
-Doh!
+Doh!!
 
 Was I thinking of the Pegasus from Greek mythology?
 
@@ -23,11 +23,11 @@ I hope you have as much fun playing it as we did.
 Getting Started
 ---------------
 
-You can dowload [`Fly-Fly.apk`][1] directly from your Android phone's browser.  Once done, open your "Downloads" folder and tap the file to install it.
+You can dowload [`Fly-Fly.apk`][1] directly from your Android phone's browser. Once done, open your "Downloads" folder and tap the file to install it.
 
 [1]: https://github.com/sdiaman1/Fly-Fly/blob/master/Fly-Fly.apk?raw=true
 
-By default, android smartphones do not allow installation of third party apps, only those that are sourced from Google Play Store are permissible.  Luckily, you can tweak this setting by going to "Menu" > "Settings" > "Security" > check "Unknown Sources".
+By default, android smartphones do not allow installation of third party apps, only those that are sourced from Google Play Store are permissible. Luckily, you can tweak this setting by going to "Menu" > "Settings" > "Security" > check "Unknown Sources".
 
 Start the Fly-Fly app.
 
