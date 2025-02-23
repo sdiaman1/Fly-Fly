@@ -14,9 +14,11 @@ Fly-Fly is a game my parents played with me and my sister when we were little.
 
 My parents still tease me about the donkey.
 
-This is my first Android app – it was a good learning experience for me – and I though I’d share it with you.
+This is my first Android app — it was a good learning experience for me — and I though I’d share it with you.
 
 I hope you have as much fun playing it as we did.
+
+![](screenshots/Fly-Fly-Donkey.gif)
 
 Getting Started
 ---------------
@@ -31,7 +33,7 @@ Start the Fly-Fly app.
 
 <img src="screenshots/1-question.png" height="400" alt="Screenshot"/>
 
-You should see a picture of a thing - a dragon fly - and a blue jay flying around a couple of roses; the white rose has a butterfly flying above it, and the red rose has a caterpillar crawling on it.
+You should see a picture of a thing — a dragon fly — and a blue jay flying around a couple of roses; the white rose has a butterfly flying above it, and the red rose has a caterpillar crawling on it.
 
 Tap the white rose with the butterfly if the thing flies, otherwise touch the red rose with the caterpillar if it doesn't.
 
